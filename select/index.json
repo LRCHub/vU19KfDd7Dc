@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Bubble",
+  "base_artist": "STAYC",
+  "createdAt": "2026-02-12T16:38:03.606088Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Burst Your Bubble",
+      "artist": "Lior",
+      "has_synced": true,
+      "path": "select/01_Burst_Your_Bubble_Lior.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bubble Butt [feat. Bruno Mars, Tyga & Mystic]",
+      "artist": "Major Lazer feat. Bruno Mars, Tyga & Mystic",
+      "has_synced": false,
+      "path": "select/02_Bubble_Butt_[feat._Bruno_Mars,_Tyga_&_Mystic]_Major_Lazer_feat._Bruno_Mars,_Tyga_&_Mystic.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Double Bubble Trouble",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/03_Double_Bubble_Trouble_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bubble feat.Uta",
+      "artist": "Eve feat. Uta",
+      "has_synced": true,
+      "path": "select/04_Bubble_feat.Uta_Eve_feat._Uta.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Falling Down (A Monstrous Psychedelic Bubble Mix)",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/05_Falling_Down_(A_Monstrous_Psychedelic_Bubble_Mix)_Oasis.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "In the Bubble With a Bullet",
+      "artist": "Beady Eye",
+      "has_synced": false,
+      "path": "select/06_In_the_Bubble_With_a_Bullet_Beady_Eye.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Living In A Bubble",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/07_Living_In_A_Bubble_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bubble (feat. Farenheit)",
+      "artist": "Sean Paul",
+      "has_synced": false,
+      "path": "select/08_Bubble_(feat._Farenheit)_Sean_Paul.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Trouble in a Bubble",
+      "artist": "Book Of Love",
+      "has_synced": false,
+      "path": "select/09_Trouble_in_a_Bubble_Book_Of_Love.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bubble Shield",
+      "artist": "Air Miami",
+      "has_synced": true,
+      "path": "select/10_Bubble_Shield_Air_Miami.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Friends In The Bubble Bath",
+      "artist": "Audiobooks",
+      "has_synced": false,
+      "path": "select/11_Friends_In_The_Bubble_Bath_Audiobooks.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bubble",
+      "artist": "Chase & Status feat. New Kidz",
+      "has_synced": true,
+      "path": "select/12_Bubble_Chase_&_Status_feat._New_Kidz.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bubble (feat. New Kidz)",
+      "artist": "Chase, Status, New Kidz",
+      "has_synced": true,
+      "path": "select/13_Bubble_(feat._New_Kidz)_Chase,_Status,_New_Kidz.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bubble Music",
+      "artist": "Cam'ron",
+      "has_synced": true,
+      "path": "select/14_Bubble_Music_Cam'ron.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bubble Music",
+      "artist": "Cam'ron",
+      "has_synced": false,
+      "path": "select/15_Bubble_Music_Cam'ron.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bubble",
+      "artist": "STAYC",
+      "has_synced": false,
+      "path": "select/pl_01_Bubble_STAYC.txt"
+    }
+  ]
+}
